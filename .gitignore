@@ -129,3 +129,6 @@ out
 .yarn/install-state.gz
 .pnp.*
 .DS_Store
+
+#Ignore TEMP html
+lib/temp.html
