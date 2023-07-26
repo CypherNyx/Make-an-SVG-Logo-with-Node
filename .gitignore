@@ -98,7 +98,7 @@ out
 # public
 
 # vuepress build output
-.vuepress/dist
+# .vuepress/dist -- COMMENTED OUT DIST.
 
 # vuepress v2.x temp and cache directory
 .temp
