@@ -29,7 +29,7 @@ const questions = [
       type: "list",
       name: "shape",
       message: "Please pick a shape for your logo:",
-      choices: ["circle", "triangle", "square"],
+      choices: ["circle", "square", "triangle"],
     },
 
 // WHEN I am prompted for the shape's color
