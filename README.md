@@ -9,19 +9,20 @@ Node.js command-line application that takes in user input to generate a logo and
 
 ## Acceptance Criteria
 
-- [ ] The application accepts user input. User is prompted for text
-- [ ] User can enter up to three characters
-- [ ] User is prompted for the text color <br>
+- [x] The application accepts user input. User is prompted for text
+- [x] User can enter up to three characters
+- [x] User is prompted for the text color <br>
    THEN they enter a color keyword (OR a hexadecimal number)
-- [ ] User is prompted for a shape
+- [x] User is prompted for a shape
    THEN they are presented with a list of shapes to choose from: circle, triangle, and square
-- [ ] User is prompted for the shape's color
+- [x] User is prompted for the shape's color
 THEN they enter a color keyword (OR a hexadecimal number)
-- [ ] Once user entered input for all the prompts
+- [x] Once user entered input for all the prompts
 THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
-- [ ] I can open the `logo.svg` file in a browser
+- [x] I can open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+- [ ] Write unit tests with Jest
 
 ### Recommended File Structure
 

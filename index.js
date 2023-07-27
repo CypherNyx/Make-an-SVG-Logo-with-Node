@@ -45,7 +45,7 @@ const questions = [
     {
       type: "input",
       name: 'shapeColor',
-      message: "What color would you like your shape's background to be?",
+      message: "What fill color would you like your shape's background to be?",
       validate: (input) => {
         // check if the input is a valid CSS color name
         const isColorName = cssColorNames.includes(input.toLowerCase());
