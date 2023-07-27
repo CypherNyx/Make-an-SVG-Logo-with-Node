@@ -98,7 +98,7 @@ out
 # public
 
 # vuepress build output
-.vuepress/dist
+# .vuepress/dist -- COMMENTED OUT DIST.
 
 # vuepress v2.x temp and cache directory
 .temp
@@ -129,3 +129,6 @@ out
 .yarn/install-state.gz
 .pnp.*
 .DS_Store
+
+#Ignore TEMP html
+lib/temp.html
