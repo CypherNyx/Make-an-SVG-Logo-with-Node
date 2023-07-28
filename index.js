@@ -63,7 +63,7 @@ const questions = [
       const shapeInfo = generateShape(answers);
       const svgInfo = generateSVG(answers, shapeInfo);
       writeToFile(fileName, svgInfo);
-     console.log(answers);
+     console.log(shapeInfo);
     })
     .catch((error) => {
       console.log(error);
