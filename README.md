@@ -18,8 +18,9 @@ This is a Node.js command-line application that takes in user input to generate 
 <br><br>
 
 ## Demo
-Here is a link to the video of the Application Demo:<br><br>
-[SVG Logo Generator -DEMO ➡️](url) <br><br>
+Here is the Application Demo:<br><br>
+https://github.com/CypherNyx/Make-an-SVG-Logo-with-Node/assets/133705303/09b69640-0a32-4535-98c1-a6fac96e66f4
+ <br><br>
 ### Sample Images:
 ![circle](./examples/circle_sample.svg)
 ![square](./examples/square_sample.svg)
@@ -68,3 +69,7 @@ If you have any questions or need further assistance, you can reach me via the f
 
   GitHub: [Dahlia Guido's GitHub](https://github.com/CypherNyx) <br>
   Email: dguido.dev@gmail.com
+
+
+
+
