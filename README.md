@@ -19,6 +19,7 @@ This is a Node.js command-line application that takes in user input to generate 
 
 ## Demo
 Here is the Application Demo:<br><br>
+[Link to video Demo ➡️](https://drive.google.com/file/d/13NkIIsRzhHnStwo339Fk1UFPMev-BwOd/view)
 
 https://github.com/CypherNyx/Make-an-SVG-Logo-with-Node/assets/133705303/09b69640-0a32-4535-98c1-a6fac96e66f4
 
@@ -30,7 +31,8 @@ https://github.com/CypherNyx/Make-an-SVG-Logo-with-Node/assets/133705303/09b6964
 
 ## Screenshots
 <br><br>
-[SAMPLE of a generated image ➡️](#)
+![Shapes test](./assets/Screenshot-passed-tests.png)
+![Prompt questions](./assets/Screenshot-prompts.png)
 <br><br>
 
 ## Installation
@@ -52,7 +54,8 @@ To generate your SVG icon, follow these steps:
 node index.js
 ```
 3. Answer the prompted questions about your application repository.
-4. Once you have provided all the required information, the application will generate a file named logo.svg in the same directory and you are ready to rename the file and move it to it's final destination.
+4. Once you have provided all the required information, the application will generate a file named logo.svg in the same directory
+5. Open the new "logo.svg" file in VS Code and if you press alt + B, this will open the image on your default browser where you can check the final result. Now you are ready to rename the file and move it to it's final destination, enjoy!
 
 ## Contributing
 1. Fork it (<https://github.com/CypherNyx/Make-an-SVG-Logo-with-Node/fork>)
