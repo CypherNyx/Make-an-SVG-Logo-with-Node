@@ -21,7 +21,9 @@ This is a Node.js command-line application that takes in user input to generate 
 Here is a link to the video of the Application Demo:<br><br>
 [SVG Logo Generator -DEMO ➡️](url) <br><br>
 ### Sample Images:
-![circle](./examples/circle_sample.svg)![square](./examples/square_sample.svg)![triangle](./examples/triangle_sample.svg)
+![circle](./examples/circle_sample.svg)
+![square](./examples/square_sample.svg)
+![triangle](./examples/triangle_sample.svg)
 
 ## Screenshots
 <br><br>
