@@ -1,7 +1,7 @@
 // import req files and other dependencies
 const inquirer = require ("inquirer");
 const fs = require("fs");
-const generateShape = require("./lib/shapes");
+const { generateShape } = require("./lib/shapes");
 const generateSVG = require("./lib/svg");
 const cssColorNames = require("./lib/color");
 
@@ -63,7 +63,7 @@ const questions = [
       const shapeInfo = generateShape(answers);
       const svgInfo = generateSVG(answers, shapeInfo);
       writeToFile(fileName, svgInfo);
-     console.log(answers);
+     console.log(shapeInfo);
     })
     .catch((error) => {
       console.log(error);
